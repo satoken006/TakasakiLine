@@ -1,0 +1,35 @@
+body{
+	width: 900px;
+	margin: 0 auto;
+	background-color: #ffc;
+	font-family: "メイリオ";
+}
+
+table{
+	float: center;
+}
+
+th, td{
+	padding: 3px 3px 3px 3px;
+}
+
+#title{
+	font-size: 28px;
+	font-weight: bold;
+	padding: 20px 10px 10px 40px;
+	color: green;
+	border-bottom: solid 5px orange;
+}
+
+#sort_ui{
+	padding: 10px 50px 10px 50px;
+	text-align: center;
+}
+
+#database{
+	margin-left: 10px;
+}
+
+#description{
+	padding: 20px 0px 20px 20px;
+}
